@@ -10,9 +10,9 @@
 ### What I'm using ? :hammer_and_wrench:
 
 - Python 3, 
- - NumPy
- - Matplotlib
- - Pandas
+  - NumPy
+  - Matplotlib
+  - Pandas
 - HTML5, CSS3, 
 - Git, GitHub,
 - Linux,

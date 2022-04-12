@@ -1,4 +1,4 @@
-:wave:
+<!--:wave:-->
 
 ## Kadir ÖZKAN
 

@@ -9,7 +9,9 @@
 
 ### What I'm using ? :hammer_and_wrench:
 
-- - Python, HTML5, CSS3, Git, GitHub
+- - Python, 
+- - HTML5, 
+- - CSS3, Git, GitHub
 - :speech_balloon: Ask  me about anything that you want to learn
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/elisa-rose-26b145231/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 ## 🚀 Skills

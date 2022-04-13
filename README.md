@@ -15,12 +15,11 @@
   - Pandas
 - HTML5, CSS3, 
 - Git, GitHub,
-- Linux,
 - Ansi SQL, MySQL,
 - C, C++,
 - PhP, MySQL,
 - Linux,
-- Jira,
+- SDLC , Agile, SCRUM, KanBan, Jira,
 - Slack,
 
 - :speech_balloon: Ask  me about anything that you want to learn

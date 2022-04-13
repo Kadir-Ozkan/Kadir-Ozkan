@@ -27,7 +27,7 @@ You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/ozkankadir"
 ## 🚀 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>
-<a href="#" target="_blank"> <https://www.sqlsplus.com/wp-content/uploads/2020/09/10-major-SQL-programming-errors-and-how-to-avoid-them-300x160.jpg" width="150" height="48"/> </a>
+<a href="#" target="_blank"> <https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="150" height="48"/> </a>
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->

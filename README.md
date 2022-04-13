@@ -22,7 +22,7 @@
 - SDLC , Agile, SCRUM, KanBan, Jira,
 - Slack,
 
-:speech_balloon: Ask  me about anything that you want to learn
+:speech_balloon: Ask  me about anything that you want to learn.
 You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/ozkankadir" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 ## 🚀 Skills
 <p>

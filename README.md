@@ -10,14 +10,19 @@
 ### What I'm using ? :hammer_and_wrench:
 
 - Python 3, 
+  - TensorFlow
+  - Keras
+  - SciKitLearn
+  - Pandas
   - NumPy
   - Matplotlib
-  - Pandas
+  - SeaBorn
+
 - HTML5, CSS3, 
 - Git, GitHub,
 - Ansi SQL, MySQL,
 - C, C++,
-- PhP, MySQL,
+- PHP, MySQL,
 - Linux,
 - SDLC , Agile, SCRUM, KanBan, Jira,
 - Slack,

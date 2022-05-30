@@ -12,6 +12,7 @@
 - Python 3, 
   - TensorFlow
   - Keras
+  - PyTorch
   - SciKitLearn
   - Pandas
   - NumPy

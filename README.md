@@ -10,6 +10,7 @@
 ### What I'm using ? :hammer_and_wrench:
 
 - Python 3, 
+  - Nltk
   - TensorFlow
   - Keras
   - PyTorch
@@ -23,8 +24,11 @@
 - Git, GitHub,
 - Ansi SQL, MySQL,
 - C, C++,
-- PHP, MySQL,
+- PHP,
+- Java,
+- R
 - Linux,
+- Matlab
 - SDLC , Agile, SCRUM, KanBan, Jira,
 - Slack,
 
